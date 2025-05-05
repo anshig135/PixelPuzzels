@@ -87,5 +87,5 @@ Special thanks to our mentors and reviewers who provided valuable guidance throu
 
 ## 📬 Contact
 
-For queries or collaboration, feel free to reach out via [LinkedIn](linkedin.com/in/anshika-gupta-8b2a64251) or open an issue in the repository.
+For queries or collaboration, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/anshika-gupta-8b2a64251/) or open an issue in the repository.
 
